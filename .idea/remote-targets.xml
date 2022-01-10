@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="mshaik52@cs4435.gaul.csd.uwo.ca" type="ssh/sftp" uuid="786b3442-485a-48ad-a66e-e2545b6ebdac">
+        <config>
+          <option name="projectRootOnTarget" value="/home/mshaik52/CS4435" />
+          <option name="serverName" value="mshaik52@cs4435.gaul.csd.uwo.ca" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

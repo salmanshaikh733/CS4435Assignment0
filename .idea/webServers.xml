@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="904f695b-423c-4c41-831d-1e4f89aba9d2" name="Gaul">
+        <fileTransfer rootFolder="/home/mshaik52" accessType="SFTP" host="cs4435.gaul.csd.uwo.ca" port="22" sshConfigId="df49be13-d142-4a22-88d8-5ffb19a04eb5" sshConfig="mshaik52@cs4435.gaul.csd.uwo.ca">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
