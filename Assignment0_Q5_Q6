@@ -1,0 +1,15 @@
+Q5: Resources I found helpful
+ -https://pkg.go.dev/strings#Fields
+ -https://yourbasic.org/golang/convert-string-to-float/
+ -https://www.golangprograms.com/write-string-slice-line-by-line-to-a-text-file.html
+ -https://www.youtube.com/watch?v=OdEWragJWHc
+ -https://go.dev/doc/
+ -https://zetcode.com/golang/readfile/
+ -https://www.youtube.com/watch?v=C8LgvuEBraI
+ -https://www.youtube.com/watch?v=1-bM3lSBDaA
+
+ Q6:
+ I think GO is a nice programming language, it feels like I am writing a C program to be quite honest
+ but without having to worry about allocating memory and deallocating it afterwards. I am quite surprised by the strong GO community
+ there is lots of support for the GO language I found it easy to google all my questions and find tons of helpful resources.
+ I will definitely consider using GO for some future side projects..
